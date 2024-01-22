@@ -13,11 +13,11 @@
 
 # 2. 안드로이드 스튜디오에 모델 연동
 
-![Untitled]({{site.url}}/images/image_13.png)
+![Untitled ]({{site.url}}/Images/image_13.png)
 
-![Untitled]({{site.url}}/images/image_14.png)
+![Untitled ]({{site.url}}/Images/image_14.png)
 
-![Untitled]({{site.url}}/images/image_15.png)
+![Untitled ]({{site.url}}/Images/image_15.png)
 
 
 # 3. 안드로이드 파일 추가
